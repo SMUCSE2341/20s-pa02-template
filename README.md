@@ -1,10 +1,8 @@
-# Spring 2020 Project 01 - Sentiment Analysis
+# CS 2341 - Spring 2020 Project 02 -Auto Indexer 
 
 ## Important Information:
 
-Project handout:  [Click Here](https://docs.google.com/document/d/1zWD76GgYqj-6Eufjh_WQ4-jp1YSIsUrzpRj3oGDJ61U/edit?usp=sharing)
-
-Project errata:  [Click Here](https://docs.google.com/document/d/1HoIxJmT1PJf8BfG67vRHKBR6DWcJPDzcwT5xXn_8GXg/edit?usp=sharing)
+Project handout:  [Click Here](https://docs.google.com/document/d/1JQDJr67bfJ45Y87RflXxYMVwhQtKAaua-mUjSR8hsY4/edit?usp=sharing)
 
 ## Input and Output Files
 
